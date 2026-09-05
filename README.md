@@ -1,5 +1,8 @@
 # Passwall2 OpenWrt installation script
 
+> **Fork note.** This is a fork of [enxy0/passwall2_install](https://github.com/enxy0/passwall2_install), kept for my own routers. The upstream repository publishes no license, so no license is added here either -- the script remains the upstream author's work. Installations themselves pull from the official [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) releases.
+
+
 English | [Русский](README.ru.md)
 
 Automated installation script for Passwall2 on OpenWrt routers. It installs Passwall2 from the official GitHub releases of [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2), using either `opkg` or `apk` depending on the OpenWrt release.
